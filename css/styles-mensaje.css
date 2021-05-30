@@ -1,0 +1,178 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+body {
+  background: linear-gradient(
+    -25deg,
+    rgb(29, 8, 73),
+    rgb(44, 25, 83),
+    rgb(69, 50, 108)
+  );
+  width: 100vw;
+  height: 100vh;
+}
+
+.line-1 {
+  position: relative;
+  top: 40%;
+  width: 24em;
+  margin: 0 auto;
+  border-right: 2px solid rgba(255, 255, 255, 0.75);
+  font-size: 180%;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  transform: translateY(-50%);
+}
+
+/* Animation */
+.anim-typewriter {
+  animation: typewriter 3s steps(44) 1s infinite alternate both,
+    blinkTextCursor 500ms steps(44) infinite normal;
+}
+
+/* animation: name duration timing-function delay iteration-count direction fill-mode; */
+
+@keyframes typewriter {
+  from {
+    width: 0;
+  }
+
+  to {
+    width: 5em;
+  }
+}
+
+@keyframes blinkTextCursor {
+  from {
+    border-right-color: rgba(24, 97, 6, 0.75);
+  }
+
+  to {
+    border-right-color: transparent;
+  }
+}
+
+.mensaje-exito {
+  position: absolute;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.849);
+  box-shadow: 10px 10px 10px rgba(red, green, blue, 0.8);
+  top: 15%;
+  bottom: 15%;
+  left: 10%;
+  right: 10%;
+}
+
+.text-mensaje {
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.bototo {
+  text-decoration: none !important;
+  background-color: crimson;
+  padding: 1em;
+  outline: 0;
+  border-radius: 3px;
+  border: 0 solid white;
+  color: white;
+}
+
+.bototo:hover {
+  background-color: white;
+  border-color: crimson;
+  border-width: 1px;
+  color: crimson;
+}
+
+a {
+  margin-top: 200px;
+}
+
+.gracias {
+  position: relative;
+  top: 40%;
+  margin: 0 auto;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.volver-butt {
+  position: relative;
+  top: 60%;
+  margin: 0 auto;
+  text-align: center;
+  white-space: nowrap;
+  height: 3em;
+  width: 16em;
+}
+
+@media screen and (max-width: 480px) {
+  .normal {
+    display: none;
+  }
+
+  .text-mensaje {
+    top: 10%;
+  }
+
+  .volver-butt {
+    top: 40%;
+  }
+
+  .gracias {
+    top: 40%;
+  }
+
+  .gracias {
+    top: 30%;
+  }
+}
+
+@media screen and (min-width: 481px) and (max-width: 760px) {
+  .normal {
+    display: none;
+  }
+
+  .text-mensaje {
+    top: 20%;
+  }
+
+  .volver-butt {
+    top: 50%;
+  }
+
+  .gracias {
+    top: 35%;
+  }
+}
+
+@media screen and (min-width: 761px) {
+  .text-mensaje {
+    top: 20%;
+  }
+
+  .gracias {
+    width: 24em;
+  }
+}
+
+@media screen and (min-width: 761px) and (max-width: 1188px) {
+  .normal {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1188px) {
+  .chico {
+    display: none;
+  }
+
+  .text-mensaje {
+    width: 24em;
+  }
+}

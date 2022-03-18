@@ -134,17 +134,16 @@
                         </figure>
                     </div>
                     <div class="card cards-certificado">
-                        <figure><img src="Certificados/error-404-not-found.jpg" alt="En Proceso Certificado PHP Polotic"
+                        <figure><img src="Certificados/CertificadoDigital#0000001545_page-php.jpg" alt="Certificado Programacion Web PHP Polotic"
                                 class="cards-logo">
-                            <figcaption>Certificado curso Php en Proceso...</figcaption>
+                            <figcaption>Certificado curso Programacion web PHP</figcaption>
                         </figure>
                     </div>
                     <div class="card cards-certificado">
-                        <figure><img src="Certificados/error-404-not-found.jpg"
-                                alt="En Proceso Certificado Full Stack + Python + JavaScript Polotic"
+                        <figure><img src="Certificados/CertificadoDigital#0000001545_page-javascript.jpg"
+                                alt="Certificado Full Stack + Python + JavaScript Polotic"
                                 class="cards-logo">
-                            <figcaption>Certificado curso Full stack + Python + JavaScript en Proceso...
-                            </figcaption>
+                            <figcaption>Certificado curso Full stack + Python + JavaScript</figcaption>
                         </figure>
                     </div>
                 </div>

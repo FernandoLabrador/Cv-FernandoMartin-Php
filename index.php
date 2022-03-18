@@ -140,7 +140,7 @@
                         </figure>
                     </div>
                     <div class="card cards-certificado">
-                        <figure><img src="Certificados/Certificadodigitaljavascript.jpg.jpg" alt="Certificado Full Stack + Python + JavaScript Polotic" class="cards-logo">
+                        <figure><img src="Certificados/Certificadodigitaljavascript.jpg" alt="Certificado Full Stack + Python + JavaScript Polotic" class="cards-logo">
                             <figcaption>Certificado curso Full stack + Python + JavaScript</figcaption>
                         </figure>
                     </div>

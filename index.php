@@ -134,15 +134,13 @@
                         </figure>
                     </div>
                     <div class="card cards-certificado">
-                        <figure><img src="Certificados/CertificadoDigital#0000001545_page-php.jpg" alt="Certificado Programacion Web PHP Polotic"
+                        <figure><img src="Certificados/Certificadodigitalphp.jpg" alt="Certificado Programacion Web PHP Polotic"
                                 class="cards-logo">
                             <figcaption>Certificado curso Programacion web PHP</figcaption>
                         </figure>
                     </div>
                     <div class="card cards-certificado">
-                        <figure><img src="Certificados/CertificadoDigital#0000001545_page-javascript.jpg"
-                                alt="Certificado Full Stack + Python + JavaScript Polotic"
-                                class="cards-logo">
+                        <figure><img src="Certificados/Certificadodigitaljavascript.jpg.jpg" alt="Certificado Full Stack + Python + JavaScript Polotic" class="cards-logo">
                             <figcaption>Certificado curso Full stack + Python + JavaScript</figcaption>
                         </figure>
                     </div>

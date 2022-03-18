@@ -11,7 +11,7 @@
     <title>Fernando Martin Porfolio</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
-    <script src="https://kit.fontawesome.com/ad87122803.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/46980279e5.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="css/styles.css">
     <script src="js/jquery-1.js"></script>
     <script src="js/NavBar.js"></script>

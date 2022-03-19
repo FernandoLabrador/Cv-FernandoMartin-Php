@@ -227,7 +227,11 @@ li a {
 .footer {
   background: darkslategray;
   color: ghostwhite;
+  /*   agregado  */
+  text-align: center;
+  padding-top: 1.5em;
 }
+
 .mapin {
   margin-top: 0.5em;
   width: 14em;

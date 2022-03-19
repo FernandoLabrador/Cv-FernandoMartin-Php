@@ -196,9 +196,9 @@
                 <a href="https://www.linkedin.com/in/fernandolabradorbrazda/" target="_blank" ><i
                         class="fab fa-linkedin fa-3x lnkd icono" alt="LinkedIn"></i></a>
                                
-                <a href="https://github.com/FernandoLabrador" target="_blank" ><i class="fa-brands fa-github icono" alt="GitHub"></i></a>
+                <a href="https://github.com/FernandoLabrador" target="_blank" ><i class="fa-brands fa-github gthub icono" alt="GitHub"></i></a>
                 
-                <a href="mailto:flabradormb@gmail.com" target="_blank" ><i class="fa-solid fa-envelope fa-bounce icono" style=" --fa-bounce-start-scale-x: 1; --fa-bounce-start-scale-y: 1; --fa-bounce-jump-scale-x: 1; --fa-bounce-jump-scale-y: 1; --fa-bounce-land-scale-x: 1; --fa-bounce-land-scale-y: 1; --fa-bounce-rebound: 0;" alt="flabradormb@gmail.com" ></i></a>
+                <a href="mailto:flabradormb@gmail.com" target="_blank" ><i class="fa-solid fa-envelope fa-bounce text-info icono" style=" --fa-bounce-start-scale-x: 1; --fa-bounce-start-scale-y: 1; --fa-bounce-jump-scale-x: 1; --fa-bounce-jump-scale-y: 1; --fa-bounce-land-scale-x: 1; --fa-bounce-land-scale-y: 1; --fa-bounce-rebound: 0;" alt="flabradormb@gmail.com" ></i></a>
 
             </div>
             <div class="col-lg-3 col-md-3 col-12 text-center">

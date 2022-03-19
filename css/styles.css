@@ -257,6 +257,12 @@ li a {
 .lnkd {
   color: #0e76a8;
 }
+
+.gthub{
+  color: #171515;
+}
+
+
 /*------------- Responsive ---------*/
 
 @media screen and (max-width: 480px) {

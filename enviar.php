@@ -18,7 +18,7 @@ $mail = new PHPMailer(true);
 
 try {
     //Server settings
-    //$mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output SMTP::DEBUG_SERVER
+    $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output SMTP::DEBUG_SERVER
     $mail->isSMTP();                                            //Send using SMTP
     $mail->Host       = 'smtp.office365.com';                     //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
